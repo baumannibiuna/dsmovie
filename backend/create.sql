@@ -42,3 +42,17 @@ INSERT INTO tb_score(movie_id, user_id, value) VALUES (1, 2, 4.0);
 INSERT INTO tb_score(movie_id, user_id, value) VALUES (2, 1, 3.0);
 INSERT INTO tb_score(movie_id, user_id, value) VALUES (2, 2, 3.0);
 INSERT INTO tb_score(movie_id, user_id, value) VALUES (2, 3, 4.0);
+
+
+postgres://
+snpsethogvvarq
+:
+8b7742a2c1e06c3e277001cc7350615fdbe2cea005c3f10da12bbd41f1ca4082
+@
+ec2-54-172-175-251.compute-1.amazonaws.com
+:
+5432
+/
+d34j49rflgu595
+
+
